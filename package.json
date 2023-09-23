@@ -16,6 +16,7 @@
     "adm-zip": "^0.4",
     "buffer-crc32": "^0.2",
     "bytebuffer": "^5.0",
+    "socket.io-client": "^4.7.2",
     "steam-crypto": "^0.0",
     "steam-resources-fork": "^1.0.4"
   },
